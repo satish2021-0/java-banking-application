@@ -7,7 +7,7 @@ It simulates real-world banking operations such as account creation, deposits, w
 
 Features
 
-  -Create bank accounts
+    -Create bank accounts
 
   -Deposit money
 
