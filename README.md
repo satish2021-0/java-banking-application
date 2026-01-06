@@ -21,33 +21,6 @@ Features:-
 
       -Proper validation and error handling using custom exceptions
 
-Project Structure
-src/
- ├── app
- │   └── Main.java
- │
- ├── domain
- │   ├── Account.java
- │   ├── Customer.java
- │   ├── Transaction.java
- │   └── Type.java
- │
- ├── repository
- │   ├── AccountRepository.java
- │   ├── CustomerRepository.java
- │   └── TransactionRepository.java
- │
- ├── service
- │   └── BankService.java
- │
- ├── service.impl
- │   └── BankServiceImpl.java
- │
- ├── exceptions
- │   ├── AccountNotFoundException.java
- │   ├── InsufficientFundsException.java
- │   └── ValidationException.java
-
 Core Java Concepts Used....
 
     Object-Oriented Programming (OOP)
