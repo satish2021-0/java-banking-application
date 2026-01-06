@@ -5,21 +5,21 @@ The project follows a layered architecture and demonstrates strong usage of OOP 
 
 It simulates real-world banking operations such as account creation, deposits, withdrawals, transfers, and transaction management.
 
-Features
+Features:-
 
     -Create bank accounts
 
-  -Deposit money
+      -Deposit money
 
-  -Withdraw money
+      -Withdraw money
 
-  -Transfer money between accounts
+      -Transfer money between accounts
 
-  -View account details
+         -View account details
 
-  -Handle transactions using enums
+      -Handle transactions using enums
 
-  -Proper validation and error handling using custom exceptions
+      -Proper validation and error handling using custom exceptions
 
 Project Structure
 src/
@@ -48,43 +48,43 @@ src/
  │   ├── InsufficientFundsException.java
  │   └── ValidationException.java
 
- Core Java Concepts Used
+Core Java Concepts Used....
 
-Object-Oriented Programming (OOP)
+    Object-Oriented Programming (OOP)
 
-  -Encapsulation
+      -Encapsulation
 
-  -Abstraction
+      -Abstraction
 
-  -Inheritance
+      -Inheritance
 
-  -Polymorphism
+      -Polymorphism
 
-  -Collections Framework
+      -Collections Framework
 
-  -Custom Exception Handling
+      -Custom Exception Handling
 
-  -Enums for transaction types
+      -Enums for transaction types
 
-  -Layered architecture (Controller → Service → Repository)
+      -Layered architecture (Controller → Service → Repository)
 
-Technologies Used
+Technologies Used:-
 
-  -Java (Core Java)
+      -Java (Core Java)
 
-  -Eclipse IDE
+      -Eclipse IDE
 
-  -Git & GitHub
+      -Git & GitHub
 
 How to Run the Project
 
   1.Clone the repository:
         git clone https://github.com/satish2021-0/java-banking-application.git
         
-2.Open the project in Eclipse
+  2.Open the project in Eclipse
 
-3.Navigate to:
-    src/app/Main.java
+  3.Navigate to:
+        src/app/Main.java
     
 4.Right-click → Run as → Java Application
 
@@ -99,10 +99,10 @@ Sample Output
     0) Exit
 
 Future Enhancements:-
-  -Add JDBC for database persistence
-  -Convert to Spring Boot REST API
-  -Add authentication and authorization
-  -Add logging and unit testing
+      -Add JDBC for database persistence
+      -Convert to Spring Boot REST API
+      -Add authentication and authorization
+      -Add logging and unit testing
 
 If you like this project
 Don’t forget to ⭐ star the repository!
