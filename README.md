@@ -15,7 +15,7 @@ Features:-
 
       -Transfer money between accounts
 
-         -View account details
+      -View account details
 
       -Handle transactions using enums
 
